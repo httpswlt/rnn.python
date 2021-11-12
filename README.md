@@ -1,1 +1,1 @@
-# rnn.python
+reference: https://github.com/weixsong/min-char-rnn
